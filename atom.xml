@@ -3,11 +3,11 @@
   <title>1706照片集</title>
   
   <subtitle>1706照片集</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.xgsx1706.eu.org/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.xgsx1706.eu.org/"/>
   <updated>2023-02-22T12:25:27.790Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.xgsx1706.eu.org/</id>
   
   <author>
     <name>1706照片集</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2023/02/22/test/"/>
-    <id>http://example.com/2023/02/22/test/</id>
+    <link href="https://www.xgsx1706.eu.org/2023/02/22/test/"/>
+    <id>https://www.xgsx1706.eu.org/2023/02/22/test/</id>
     <published>2023-02-22T12:25:11.000Z</published>
     <updated>2023-02-22T12:25:27.790Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/22/hello-world/"/>
-    <id>http://example.com/2023/02/22/hello-world/</id>
+    <link href="https://www.xgsx1706.eu.org/2023/02/22/hello-world/"/>
+    <id>https://www.xgsx1706.eu.org/2023/02/22/hello-world/</id>
     <published>2023-02-22T11:55:45.357Z</published>
     <updated>2023-01-22T10:14:59.212Z</updated>
     
